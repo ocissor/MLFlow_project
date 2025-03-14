@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/154258cf66e24da099435421b475595a/artifacts
+end_time: 1741887837095
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 154258cf66e24da099435421b475595a
+run_name: sneaky-wolf-966
+run_uuid: 154258cf66e24da099435421b475595a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741887834928
+status: 3
+tags: []
+user_id: sarth

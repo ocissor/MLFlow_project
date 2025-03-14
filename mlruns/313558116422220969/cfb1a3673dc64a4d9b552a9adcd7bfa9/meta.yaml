@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/313558116422220969/cfb1a3673dc64a4d9b552a9adcd7bfa9/artifacts
+end_time: 1741934164290
+entry_point_name: ''
+experiment_id: '313558116422220969'
+lifecycle_stage: active
+run_id: cfb1a3673dc64a4d9b552a9adcd7bfa9
+run_name: brawny-smelt-713
+run_uuid: cfb1a3673dc64a4d9b552a9adcd7bfa9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741934152553
+status: 3
+tags: []
+user_id: sarth

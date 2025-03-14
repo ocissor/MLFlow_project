@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/313558116422220969/6f415bb0b76e4d6f92bc04ea6bd0db15/artifacts
+end_time: 1741934126020
+entry_point_name: ''
+experiment_id: '313558116422220969'
+lifecycle_stage: active
+run_id: 6f415bb0b76e4d6f92bc04ea6bd0db15
+run_name: victorious-worm-655
+run_uuid: 6f415bb0b76e4d6f92bc04ea6bd0db15
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741934125552
+status: 4
+tags: []
+user_id: sarth

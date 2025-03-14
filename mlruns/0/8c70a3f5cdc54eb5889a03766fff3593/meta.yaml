@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/8c70a3f5cdc54eb5889a03766fff3593/artifacts
+end_time: 1741887499023
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8c70a3f5cdc54eb5889a03766fff3593
+run_name: clumsy-deer-268
+run_uuid: 8c70a3f5cdc54eb5889a03766fff3593
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741887496817
+status: 4
+tags: []
+user_id: sarth
