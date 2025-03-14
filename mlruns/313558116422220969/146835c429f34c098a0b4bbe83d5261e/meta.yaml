@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/313558116422220969/146835c429f34c098a0b4bbe83d5261e/artifacts
+end_time: 1741953155010
+entry_point_name: ''
+experiment_id: '313558116422220969'
+lifecycle_stage: active
+run_id: 146835c429f34c098a0b4bbe83d5261e
+run_name: melodic-gnu-789
+run_uuid: 146835c429f34c098a0b4bbe83d5261e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741953147373
+status: 3
+tags: []
+user_id: sarth
