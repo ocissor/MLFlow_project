@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLOps_Video_Series/MLFlow_project/mlruns/187037835333446103/0ad53311ed2e4c7fbcc26eb7dbfe8076/artifacts
+end_time: 1741953894453
+entry_point_name: ''
+experiment_id: '187037835333446103'
+lifecycle_stage: active
+run_id: 0ad53311ed2e4c7fbcc26eb7dbfe8076
+run_name: defiant-gull-122
+run_uuid: 0ad53311ed2e4c7fbcc26eb7dbfe8076
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741953894389
+status: 3
+tags: []
+user_id: sarth

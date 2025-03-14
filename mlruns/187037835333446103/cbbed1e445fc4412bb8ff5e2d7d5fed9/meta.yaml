@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLOps_Video_Series/MLFlow_project/mlruns/187037835333446103/cbbed1e445fc4412bb8ff5e2d7d5fed9/artifacts
+end_time: 1741953894826
+entry_point_name: ''
+experiment_id: '187037835333446103'
+lifecycle_stage: active
+run_id: cbbed1e445fc4412bb8ff5e2d7d5fed9
+run_name: stylish-doe-901
+run_uuid: cbbed1e445fc4412bb8ff5e2d7d5fed9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741953894794
+status: 3
+tags: []
+user_id: sarth

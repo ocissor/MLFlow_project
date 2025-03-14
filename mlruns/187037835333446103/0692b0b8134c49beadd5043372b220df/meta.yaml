@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLOps_Video_Series/MLFlow_project/mlruns/187037835333446103/0692b0b8134c49beadd5043372b220df/artifacts
+end_time: 1741953894747
+entry_point_name: ''
+experiment_id: '187037835333446103'
+lifecycle_stage: active
+run_id: 0692b0b8134c49beadd5043372b220df
+run_name: unruly-ox-429
+run_uuid: 0692b0b8134c49beadd5043372b220df
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741953894715
+status: 3
+tags: []
+user_id: sarth

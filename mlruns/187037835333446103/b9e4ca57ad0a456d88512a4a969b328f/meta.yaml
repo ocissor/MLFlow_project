@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLOps_Video_Series/MLFlow_project/mlruns/187037835333446103/b9e4ca57ad0a456d88512a4a969b328f/artifacts
+end_time: 1741953894620
+entry_point_name: ''
+experiment_id: '187037835333446103'
+lifecycle_stage: active
+run_id: b9e4ca57ad0a456d88512a4a969b328f
+run_name: whimsical-asp-729
+run_uuid: b9e4ca57ad0a456d88512a4a969b328f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741953894588
+status: 3
+tags: []
+user_id: sarth

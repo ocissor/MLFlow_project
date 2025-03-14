@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1741954751928
+current_stage: None
+description: ''
+last_updated_timestamp: 1741954751928
+name: Sarthak_Model_1
+run_id: e67b953e7df24c2ab627a3bbcbae5a56
+run_link: ''
+source: file:///D:/MLOps_Video_Series/MLFlow_project/mlruns/187037835333446103/e67b953e7df24c2ab627a3bbcbae5a56/artifacts/random_forest
+status: READY
+status_message: null
+storage_location: file:///D:/MLOps_Video_Series/MLFlow_project/mlruns/187037835333446103/e67b953e7df24c2ab627a3bbcbae5a56/artifacts/random_forest
+user_id: null
+version: 1

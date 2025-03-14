@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLOps_Video_Series/MLFlow_project/mlruns/187037835333446103/50ceb1b6e5ee465f8006f4d36f1ebf1c/artifacts
+end_time: 1741953894510
+entry_point_name: ''
+experiment_id: '187037835333446103'
+lifecycle_stage: active
+run_id: 50ceb1b6e5ee465f8006f4d36f1ebf1c
+run_name: efficient-swan-281
+run_uuid: 50ceb1b6e5ee465f8006f4d36f1ebf1c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741953894469
+status: 3
+tags: []
+user_id: sarth
